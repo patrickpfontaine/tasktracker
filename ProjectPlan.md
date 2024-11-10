@@ -1,11 +1,11 @@
 Javascript Frontend to Java Backend connected to SQL.
 
-Javascript Frontend - Paul
-Java Interface to SQL - Shahir
+Javascript Frontend - Patrick will use Figma
 
 Java Backend: 3 parts
+- Java Interface to SQL - Shahir
 - Ticket Purchase
-- Movie Searching and Reviews
+- Movie Searching and Reviews - Justin
 - Login and Crediential Storage
 - Admin Powers for Movie Catalog
 
