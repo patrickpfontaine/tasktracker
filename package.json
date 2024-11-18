@@ -2,7 +2,7 @@
   "name": "moviebookingsystem",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://patrickpfontaine.github.io/MovieBookingSystem",
+  "homepage": "https://47-P.github.io/MovieBookingSystem",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
