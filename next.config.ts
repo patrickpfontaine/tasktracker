@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export", // Enables static export
+  basePath: "/tasktracker",
+  reactStrictMode: true,
+  trailingSlash: true, // Adds trailing slashes for all paths
+  assetPrefix: "/tasktracker/",
 };
 
-export default nextConfig;
+module.exports = nextConfig;
+//export default nextConfig;
