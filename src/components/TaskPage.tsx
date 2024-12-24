@@ -1,6 +1,6 @@
 import React from "react";
 import { PlusIcon } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/button";
 
 const TaskPage: React.FC = () => {
   return (
