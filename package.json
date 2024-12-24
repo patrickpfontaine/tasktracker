@@ -1,6 +1,6 @@
 {
   "name": "tasktracker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "homepage": "https://patrickpfontaine.github.io/tasktracker",
   "scripts": {
